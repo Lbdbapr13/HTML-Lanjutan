@@ -1,0 +1,147 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Raleway"sans-serif;
+}
+
+/* nav menu */
+.nav {
+    list-style-type: style type none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: black;
+}
+
+.nav li{
+    float: left;
+}
+
+.nav li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+.active {
+   background-color: aqua;
+}
+/* flex*/
+.flex-container {
+    display: Flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.flex-item {
+    padding: 20 px;
+    flex: 50%;
+    margin: 5px;
+    border-radius: 4 px;
+}
+
+.flex-red {background-color: blueviolet;}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Raleway"sans-serif;
+}
+
+/* nav menu */
+.nav {
+    list-style-type: style type none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: black;
+}
+
+.nav li{
+    float: left;
+}
+
+.nav li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+.active {
+   background-color: aqua;
+}
+/* flex*/
+.flex-container {
+    display: Flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.flex-item {
+    padding: 20 px;
+    flex: 50%;
+    margin: 5px;
+    border-radius: 4 px;
+}
+
+.flex-red {background-color: blueviolet;}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Raleway"sans-serif;
+}
+
+/* nav menu */
+.nav {
+    list-style-type: style type none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: black;
+}
+
+.nav li{
+    float: left;
+}
+
+.nav li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+.active {
+   background-color: aqua;
+}
+/* flex*/
+.flex-container {
+    display:flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.flex-item {
+    padding: 20 px;
+    flex: 30%;
+    margin: 5px;
+    border-radius: 5 px;
+}
+
+.flex-red {background-color: blueviolet;}
+.flex-blue {background-color: blue;}
+.flex-violet {background-color: violet;}
+.flex-brown {background-color: brown;}
